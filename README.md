@@ -5,6 +5,8 @@
 - Ruby 2.7.2
 - Rails 6.1.1
 - Bootstrap 4
+- rails g migration enable_uuid_extension
+
 
 ## Download and Installation
 
